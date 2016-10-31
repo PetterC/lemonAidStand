@@ -1,0 +1,7 @@
+c:\users\pette\documents\visual studio 2015\Projects\lemonaidStand\lemonaidStand\bin\Debug\lemonaidStand.exe.config
+C:\Users\pette\Documents\work\lemonaidStand\lemonaidStand\bin\Debug\lemonaidStand.exe.config
+C:\Users\pette\Documents\work\lemonaidStand\lemonaidStand\bin\Debug\lemonaidStand.exe
+C:\Users\pette\Documents\work\lemonaidStand\lemonaidStand\bin\Debug\lemonaidStand.pdb
+C:\Users\pette\Documents\work\lemonaidStand\lemonaidStand\obj\Debug\lemonaidStand.csprojResolveAssemblyReference.cache
+C:\Users\pette\Documents\work\lemonaidStand\lemonaidStand\obj\Debug\lemonaidStand.exe
+C:\Users\pette\Documents\work\lemonaidStand\lemonaidStand\obj\Debug\lemonaidStand.pdb
